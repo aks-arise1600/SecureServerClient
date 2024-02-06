@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>certs/arise1600_ca.crt</file>
+        <file>certs/arise1600_local.crt</file>
+        <file>certs/arise1600_local.key</file>
+    </qresource>
+</RCC>

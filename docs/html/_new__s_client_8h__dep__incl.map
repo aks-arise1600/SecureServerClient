@@ -1,0 +1,7 @@
+<map id="SecureServer/New_sClient.h" name="SecureServer/New_sClient.h">
+<area shape="rect" id="node1" title="Header of New_sClient class ." alt="" coords="125,5,315,32"/>
+<area shape="rect" id="node2" href="$_new__s_client_8cpp.html" title="New_sClient class has unique id and QTcpSocket for each new connections." alt="" coords="5,80,211,107"/>
+<area shape="rect" id="node3" href="$_secure_server_8h.html" title="Header of SecureServer class ." alt="" coords="235,80,429,107"/>
+<area shape="rect" id="node4" href="$_secure_server_2main_8cpp.html" title=" " alt="" coords="149,155,307,181"/>
+<area shape="rect" id="node5" href="$_secure_server_8cpp.html" title="SecureServer class handle all incomming QSslSocket with TLS Handshake." alt="" coords="332,155,540,181"/>
+</map>
