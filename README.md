@@ -17,7 +17,7 @@ A Qt/C++ Exmaple for SSL Server over TCP, TLS Handshake
 
 1. Cmake build
 
-		git clone https://github.com/anil-arise1600/SecureServerClient.git
+		git clone https://github.com/aks-arise1600/SecureServerClient.git
 		cd SecureServerClient
 		mkdir cBuild && cd cBuild
 		cmake ..
@@ -25,7 +25,7 @@ A Qt/C++ Exmaple for SSL Server over TCP, TLS Handshake
 		
 2. Qmake build
 		
-		git clone https://github.com/anil-arise1600/SecureServerClient.git
+		git clone https://github.com/aks-arise1600/SecureServerClient.git
 		cd SecureServerClient
 		mkdir qBuild && cd qBuild
 		qmake ..
